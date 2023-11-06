@@ -1,5 +1,5 @@
 # Sales-report-project
-Data cleaning of a sales report
+
  This involves separation of the first and last name of the salesperson using TEXT TO COLUMN
  The profit and commission are calculated using the IF command 
  The SUMIF command is used to calculate the total sales of items that meet a certain criteria e.g sale of items under $50, etc. 
